@@ -1,5 +1,5 @@
 MRuby::Build.new do |conf|
-  toolchain :gcc
+  toolchain :clang
   conf.gembox 'default'
   conf.gem '../mruby-libssh'
   conf.enable_test
