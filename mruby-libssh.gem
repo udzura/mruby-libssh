@@ -1,0 +1,6 @@
+name: mruby-libssh
+description: LibSSH class
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-libssh
+protocol: git
+repository: https://github.com/udzura/mruby-libssh.git
